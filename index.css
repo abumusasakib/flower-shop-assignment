@@ -1,0 +1,211 @@
+.heading-text {
+  text-align: left;
+  color: black;
+  margin-left: 11%;
+}
+
+.home {
+  padding-left: 10%;
+  padding-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  background-color: #f8c8dc;
+}
+
+.heading-area {
+  opacity: 0.8;
+  padding-top: 60px;
+  align-self: center;
+}
+
+.card-body {
+  opacity: 0.8;
+  padding-top: 20px;
+  max-width: 70%;
+}
+
+#card {
+  max-width: 990px;
+  max-height: 900px;
+}
+
+.full-card {
+  padding-top: 50px;
+  padding-left: 250px;
+  opacity: 0.9;
+  margin-top: 20px;
+}
+
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+  padding-left: 2%;
+  border: none;
+}
+
+.card-text {
+  text-align: left;
+  color: black;
+  margin-left: 20%;
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+.card-text {
+  font-size: 20px;
+  margin-left: 13%;
+}
+
+#headerContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.text-area {
+  display: flex;
+  justify-content: flex-start;
+  opacity: 0.8;
+  background-color: #f8c8dc;
+  max-width: 100%;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 20px;
+  margin-left: 11%;
+}
+
+.btn {
+  padding: 5px 5px;
+  background-color: #d70040;
+}
+
+.home,
+.right {
+  flex: 1;
+} 
+
+.right {
+  background-color: #f8c8dc;
+}
+
+img {
+  width: 57%;
+  height: auto;
+}
+
+#header{
+  margin-left: 30%;
+}
+
+.card-img-top{
+  width: 67%;
+  height: auto;
+}
+
+#image1{
+  width: 94%;
+  height: auto;
+}
+
+#image2{
+  width: 94%;
+  height: auto;
+}
+
+#image3{
+  width: 93%;
+  height: auto;
+}
+
+#image4{
+  width: 93%;
+  height: auto;
+}
+
+#card-image{
+  width: 34%;
+  height: auto;
+}
+
+#card-heading-text {
+  text-align: center;
+  font-weight: bolder;
+  color: black;
+  margin-left: 40%;
+}
+#card-starting-text {
+  text-align: center;
+  color: black;
+  padding-left: 40%;
+}
+
+#midContainer {
+  opacity: 0.8;
+  align-items: center;
+  height: 50vh;
+}
+
+#mid-section-left {
+  padding-left: 10%;
+  padding-bottom: 30px;
+  background-color:	#FFF5EE;
+  align-items: center;
+
+}
+
+.mid-area {
+  opacity: 0.8;
+  padding-top: 60px;
+  align-self: center;
+}
+
+.mid-text {
+  text-align: left;
+  color: black;
+  margin-left: 14%;
+}
+
+#mid-section-right {
+  align-items: center;
+  background-color: #FFF5EE;
+}
+
+.mid-text-area {
+  opacity: 0.8;
+  background-color:	#FFF5EE;
+  max-width: 100%;
+}
+
+#deals-card{
+  background-image: url(assets/Rectangle\ 9.png);
+  background-size: contain;
+}
+
+#deals-text {
+  text-align: left;
+  color: black;
+  margin-left: 31%;
+  margin-left: 52%
+}
+
+#deals-title {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  margin-left: 45%
+}
+
+#deals-card-col{
+  opacity: 0;
+}
+
+#email-form{
+  margin-left: 18%;
+}
